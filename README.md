@@ -52,9 +52,14 @@ Block Quotes:
 >
 > blah blah
 > blah blah
+> blah
 
 
+____
+Table:
 
+| Tables        |   Are             |  Nifty      |
+| ------------- | :--------------: | -----------: | 
 
 
 
