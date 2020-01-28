@@ -58,10 +58,15 @@ Block Quotes:
 ____
 Table:
 
-| Tables        |   Are             |  Nifty      |
+| Column #1        |   Column #2            |  Column #3      |
 | ------------- | :--------------: | -----------: | 
+| left |center| right
 
+____
 
+- [x] to-do #1
+- [ ] to-do #2
+- [ ] to-do #3
 
 
 
