@@ -27,7 +27,7 @@ Un-Ordered List:
 ____
 
 inline Link:
-[this is a linke](https://github.com "github")
+[this is a link](https://github.com "github")
 
 
 
