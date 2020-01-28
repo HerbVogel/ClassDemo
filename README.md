@@ -31,9 +31,24 @@ inline Link:
 
 [this is a relative reference link](/README.md "Same File")
 
+____
 
+Image File:
+![octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Octocat")
 
+```java
+System.out.println("Hello");
+```
+```cobol
+01 ws-item pic x(01) value spaces.
+COMPUTE WS-ITEM + 1 
+END-COMPUTE
+```
 
+____
+
+Block Quotes:
+>
 
 
 
